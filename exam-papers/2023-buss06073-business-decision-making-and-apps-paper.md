@@ -1,48 +1,14 @@
 
-# BUSS06073 - Bus Decision Making And Apps Summer Examinations 2023/2024
+# Bus Decision Making And Apps - BUSS06073 - Exam Paper - 2024 - Summer
 
-Code on paper 49a93c78
+## Instructions
 
-TECHNOLOGICAL UNIVERSITY OF THE SHANNON: MIDLANDS MIDWEST
+**Time Allowed:** 2 hours
 
-SUMMER EXAMINATIONS 2023/2024
-
-BUSS06073 - Bus Decision Making and Apps
-
-MODULE:
-
-PROGRAMME(S):
-
-| Code         | Programme                                                                          |
-|--------------|------------------------------------------------------------------------------------|
-| LC_BBEMM_KMY | Bachelor of Business (Honours) Business Studies with Event Management              |
-| LC_HBEAM_JMY | Bachelor of Arts Business Studies with Beauty and Spa Management                   |
-| LC_HBEAM_IMY | Higher Certificate in Arts in Business Studies with Beauty and Spa Management      |
-| LC_BTTMM_IMY | Higher Certificate in Business Studies with Travel and Tourism Management          |
-| LC_BTTMM_JMY | Bachelor of Business Studies with Travel and Tourism Management                    |
-| LC_BBEMM_JMY | Bachelor of Business Studies with Event Management                                 |
-| LC_BTTMM_KMY | Bachelor of Business (Honours) Business Studies with Travel and Tourism Management |
-| LC_BBEMM_IMY | Higher Certificate in Business Studies with Event Management                       |
-| LC_HBBEM_KMY | Bachelor of Arts (Honours) Business Studies with Beauty and Spa Management         |
-
-TUS Technological University of the Shannon: Midlands Midwest
-
-YEAR OF STUDY: 1
-
-TIME ALLOWED: 2 Hours
-
-EXAMINER(S):
-
-Margaret Hogan (Internal)
-Rachelle O'Brien (External)
-
-INSTRUCTIONS:
-
-Answer 2 questions. All questions carry equal marks.
-
-PLEASE DO NOT TURN OVER THIS PAGE UNTIL YOU ARE INSTRUCTED TO DO SO.
+**Instructions:** Answer 2 questions. All questions carry equal marks.
 
 The use of programmable or text storing calculators is expressly forbidden.
+
 Please note that where a candidate answers more than the required number of questions, the examiner will mark all questions attempted and then select the highest scoring ones.
 
 Requirements for this paper:
@@ -171,5 +137,35 @@ Reconcile the bank statement balance with the cash book balance at the 30<sup>th
 ### Question 3(b) [10 Marks]
 
 Discuss the benefit of regularly preparing bank reconciliation statements.
+
+## Paper College Details
+
+College: Technological University of the Shannon: Midlands Midwest  
+Module Title: Business Decision Making and Apps  
+Module Code: BUSS06073  
+Year of Study: 1  
+Year: 2024 - Summer  
+Code on Paper: 49a93c78  
+
+### Programmes
+
+| Code         | Programme                                                                          |
+|--------------|------------------------------------------------------------------------------------|
+| LC_BBEMM_KMY | Bachelor of Business (Honours) Business Studies with Event Management              |
+| LC_HBEAM_JMY | Bachelor of Arts Business Studies with Beauty and Spa Management                   |
+| LC_HBEAM_IMY | Higher Certificate in Arts in Business Studies with Beauty and Spa Management      |
+| LC_BTTMM_IMY | Higher Certificate in Business Studies with Travel and Tourism Management          |
+| LC_BTTMM_JMY | Bachelor of Business Studies with Travel and Tourism Management                    |
+| LC_BBEMM_JMY | Bachelor of Business Studies with Event Management                                 |
+| LC_BTTMM_KMY | Bachelor of Business (Honours) Business Studies with Travel and Tourism Management |
+| LC_BBEMM_IMY | Higher Certificate in Business Studies with Event Management                       |
+| LC_HBBEM_KMY | Bachelor of Arts (Honours) Business Studies with Beauty and Spa Management         |
+
+### Examiners
+
+| Examiner         |          |
+|------------------|----------|
+| Margaret Hogan   | Internal |
+| Rachelle O'Brien | External |
 
 ---
