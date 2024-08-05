@@ -36,12 +36,12 @@ Prepare the monthly purchases budget in units and euros for the prints for the m
 
 The first step is to calculate the number of prints required to be in stock at the end of each month. This is done by multiplying the projected sales for the following month by 40% and then adding the number of prints in stock at the end of the previous month.
 
-| Month    | Projected Sales | 40% of Projected Sales | Number of Prints in Stock |
-|----------|-----------------|------------------------:|--------------------------:|
-| June     |           1,500 |                     600 |                     1,350 |
-| July     |           1,700 |                     680 |                     2,050 |
-| August   |           1,900 |                     760 |                     2,810 |
-| September|           1,400 |                     560 |                     2,370 |
+| Month     | Projected Sales | 40% of Projected Sales | Number of Prints in Stock |
+|-----------|-----------------|-----------------------:|--------------------------:|
+| June      | 1,500           |                    600 |                     1,350 |
+| July      | 1,700           |                    680 |                     2,050 |
+| August    | 1,900           |                    760 |                     2,810 |
+| September | 1,400           |                    560 |                     2,370 |
 
 ![1722891316118](images/2023-buss06073-business-decision-making-and-apps-solution/1722891316118.png)
 
@@ -56,11 +56,9 @@ The first step is to calculate the number of prints required to be in stock at t
    - **June:**
      - Ending Inventory = 40% of July Sales
      - Ending Inventory = 0.40 * 1,700 = 680 prints
-
    - **July:**
      - Ending Inventory = 40% of August Sales
      - Ending Inventory = 0.40 * 1,900 = 760 prints
-
    - **August:**
      - Ending Inventory = 40% of September Sales
      - Ending Inventory = 0.40 * 1,400 = 560 prints
@@ -113,11 +111,11 @@ The first step is to calculate the number of prints required to be in stock at t
 
 **Purchases Budget:**
 
-| Month | Prints to be Purchased | Cost (€)   |
-|-------|------------------------:|-----------:|
-| June  |                  1,430  |    28,600  |
-| July  |                  1,780  |    35,600  |
-| August|                  1,700  |    34,000  |
+| Month  | Prints to be Purchased | Cost (€) |
+|--------|-----------------------:|---------:|
+| June   |                  1,430 |   28,600 |
+| July   |                  1,780 |   35,600 |
+| August |                  1,700 |   34,000 |
 
 ### Question 1(b) [15 Marks]
 
@@ -142,7 +140,7 @@ However, there are also drawbacks to relying on pay as a motivator:
 
 - **Short-Term Focus:** Pay incentives might lead to a short-term focus where employees aim to meet immediate targets at the expense of long-term objectives and sustainability.
 - **Unhealthy Competition:** Excessive emphasis on pay can create unhealthy competition among employees, leading to a toxic work environment and undermining teamwork and collaboration.
-- **Diminished Intrinsic Motivation:** Over-reliance on extrinsic rewards like pay can diminish intrinsic motivation, where employees might lose interest in their work and only focus on financial gains.
+- **Diminished Intrinsic Motivation:** Over-reliance on extrinsic rewards like pay can diminish intrinsic motivation, where employees might lose interest in their work and only focus on financial gains. MArco/Mini goal
 - **Cost:** Financial incentives can be costly for the company, especially if not aligned properly with actual performance improvements, leading to inefficiencies and financial strain.
 
 In conclusion, while pay can be an effective motivator, it needs to be balanced with other forms of recognition and support to ensure long-term success and employee well-being.
@@ -221,9 +219,132 @@ Eve Fitzgerald runs a family-run business that operates Serenity Spa & Wellness 
 
 Prepare a cash flow forecast for each month from May 2024 up to and including August 2024
 
+#### Answer 2(a)
+
+**Cash Flow Forecast for Serenity Spa & Wellness Centre (May 2024 - August 2024)**
+
+**Assumptions and Calculations:**
+
+1. **Sales Collection:**
+   - 60% of sales are collected in the month of sale (with 1% discount).
+   - 40% of sales are collected in the following month.
+
+2. **Purchases Payment:**
+   - 25% of purchases are paid in the month of purchase.
+   - 75% of purchases are paid in the following month.
+
+3. **Direct Cost of Sales:**
+   - 35% of total sales.
+
+**Cash Flow Forecast:**
+
+| **Month**                                                                                     | **May 2024**                    | **June 2024** | **July 2024** | **August 2024** |
+|-----------------------------------------------------------------------------------------------|---------------------------------|---------------|---------------|-----------------|
+| **Opening Cash Balance**                                                                      | -3,500                          | 10,113        | 30,273        | 50,488          |
+| **Cash Sales (60% of sales with 1% discount)**                                                | 50,490                          | 57,420        | 62,370        | 68,310          |
+| **Collections from Previous Month's Credit Sales**                                            | 15,000                          | 34,000        | 38,000        | 42,000          |
+| **Total Cash Inflows**                                                                        | 61,990                          | 91,420        | 100,370       | 110,310         |
+|                                                                                               |                                 |               |               |                 |
+| **Payments**                                                                                  |                                 |               |               |                 |
+| Direct Cost of Sales (35%)                                                                    | 29,750                          | 33,250        | 36,750        | 40,250          |
+| Payments for Purchases (75% of previous month's purchases + 25% of current month's purchases) | 9,500 + 7,438 = 16,938          | 22,688        | 25,063        | 27,438          |
+| Equipment Purchase                                                                            | 15% discount on €5,000 = €4,250 | 32,000        |               |                 |
+| Loan Repayment                                                                                |                                 | 27,200        | 550           | 550             |
+| Wages                                                                                         | 25,000                          | 26,250        | 26,250        | 26,250          |
+| Rates                                                                                         | 4,000                           | 4,000         | 4,000         | 4,000           |
+| Rent                                                                                          | 10,000                          | 10,000        | 10,000        | 10,000          |
+| Total Payments                                                                                | 99,938                          | 133,388       | 102,613       | 108,488         |
+|                                                                                               |                                 |               |               |                 |
+| **Net Cash Flow**                                                                             | -37,948                         | -41,968       | -2,243        | 1,823           |
+| **Closing Cash Balance**                                                                      | 10,113                          | 30,273        | 50,488        | 70,133          |
+
+**Calculations:**
+
+1. **Cash Sales:**
+   - May: 60% of €85,000 = €51,000 with 1% discount = €50,490
+   - June: 60% of €95,000 = €57,000 with 1% discount = €56,430
+   - July: 60% of €105,000 = €63,000 with 1% discount = €62,370
+   - August: 60% of €115,000 = €69,000 with 1% discount = €68,310
+2. **Collections from Previous Month's Credit Sales:**
+   - May: €15,000
+   - June: 40% of €85,000 = €34,000
+   - July: 40% of €95,000 = €38,000
+   - August: 40% of €105,000 = €42,000
+3. **Direct Cost of Sales:**
+   - May: 35% of €85,000 = €29,750
+   - June: 35% of €95,000 = €33,250
+   - July: 35% of €105,000 = €36,750
+   - August: 35% of €115,000 = €40,250
+4. **Payments for Purchases:**
+   - Purchases are 35% of sales.
+   - May: 75% of April purchases (€12,000) + 25% of May purchases (€29,750) = €9,000 + €7,438 = €16,938
+   - June: 75% of May purchases (€29,750) + 25% of June purchases (€33,250) = €22,688
+   - July: 75% of June purchases (€33,250) + 25% of July purchases (€36,750) = €25,063
+   - August: 75% of July purchases (€36,750) + 25% of August purchases (€40,250) = €27,438
+5. **Loan and Loan Repayments:**
+   - Eve will take out a loan in June for 85% of €32,000 = €27,200
+   - Loan repayment of €550 per month starting from July.
+6. **Wages:**
+   - May: €25,000
+   - June: €25,000 + 5% = €26,250
+   - July: €26,250
+   - August: €26,250
+7. **Rates:**
+   - Monthly rate payment: €48,000 / 12 = €4,000
+8. **Rent:**
+   - Monthly rent payment: €10,000
+9. **Equipment Purchase:**
+   - May: €4,250 (after 15% discount on €5,000 purchase in December)
+10. **Opening Cash Balance:**
+    - May: -€3,500
+
+**Closing Cash Balance Calculation:**
+
+- **May:**
+  - Opening Cash Balance: -€3,500
+  - Net Cash Flow: -€37,948
+  - Closing Cash Balance: €10,113
+- **June:**
+  - Opening Cash Balance: €10,113
+  - Net Cash Flow: -€41,968
+  - Closing Cash Balance: €30,273
+- **July:**
+  - Opening Cash Balance: €30,273
+  - Net Cash Flow: -€2,243
+  - Closing Cash Balance: €50,488
+- **August:**
+  - Opening Cash Balance: €50,488
+  - Net Cash Flow: €1,823
+  - Closing Cash Balance: €70,133
+
 ### Question 2(b) [10 Marks]
 
 Eve Fitzgerald is anticipating a budgeted cash surplus over the next one to two years. Discuss the appropriate action that management may take to capitalise on this projected surplus.
+
+#### Answer 2(b)
+
+**Answer:**
+
+Eve Fitzgerald is anticipating a budgeted cash surplus over the next one to two years. To capitalize on this projected surplus, management may consider several appropriate actions:
+
+1. **Reinvest in the Business:**
+   - Invest in upgrading or expanding the Serenity Spa & Wellness Centre. This could include renovating facilities, adding new services, or purchasing new equipment to enhance customer experience and attract more clients.
+2. **Debt Reduction:**
+   - Use the surplus to pay down existing debts. This will reduce interest expenses and improve the financial health of the business, providing more flexibility in the long term.
+3. **Emergency Fund:**
+   - Set aside a portion of the surplus as an emergency fund. This will provide a financial cushion to handle unexpected expenses or economic downturns, ensuring business stability.
+4. **Marketing and Promotion:**
+   - Invest in marketing campaigns to increase brand awareness and attract new customers. This could include online marketing, social media advertising, or special promotions and events.
+5. **Employee Development:**
+   - Invest in training and development programs for employees. Enhancing their skills and knowledge can improve service quality and employee satisfaction, leading to higher productivity and customer loyalty.
+6. **New Ventures:**
+   - Consider diversifying the business by exploring new ventures or revenue streams related to the wellness industry. This could include launching new products, services, or even opening additional locations.
+7. **Technology Upgrades:**
+   - Invest in technology to streamline operations, improve customer experience, and enhance efficiency. This could include upgrading booking systems, implementing customer relationship management (CRM) software, or improving the website and online booking capabilities.
+8. **Shareholder Returns:**
+   - If the business is family-run, consider distributing a portion of the surplus as dividends to shareholders. This can provide a return on investment and increase shareholder satisfaction.
+
+By strategically investing the projected surplus, Eve Fitzgerald can strengthen the business, improve its competitive position, and ensure long-term growth and sustainability.
 
 ## Question 3 [Total Marks: 50]
 
