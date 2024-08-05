@@ -43,6 +43,8 @@ The first step is to calculate the number of prints required to be in stock at t
 | August   |           1,900 |                     760 |                     2,810 |
 | September|           1,400 |                     560 |                     2,370 |
 
+![1722891179491](images/2023-buss06073-business-decision-making-and-apps-solution/1722891179491.png)
+
 #### Answer 1(a) (ii)
 
 1. **Calculate Required Ending Inventory:**
