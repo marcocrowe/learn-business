@@ -45,7 +45,7 @@ The first step is to calculate the number of prints required to be in stock at t
 
 ![1722891316118](images/2023-buss06073-business-decision-making-and-apps-solution/1722891316118.png)
 
-![1722891542164](images/2023-buss06073-business-decision-making-and-apps-solution/1722891542164.png)
+![Formula View](images/2023-buss06073-business-decision-making-and-apps-solution/formula-view.png)
 
 #### Answer 1(a) (ii)
 
