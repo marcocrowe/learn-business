@@ -243,21 +243,21 @@ Prepare a cash flow forecast for each month from May 2024 up to and including Au
 | **Opening Cash Balance**                                                                      |                          -3,500 |        10,113 |        30,273 |          50,488 |
 | **Cash Sales (60% of sales with 1% discount)**                                                |                          50,490 |        57,420 |        62,370 |          68,310 |
 | **Collections from Previous Month's Credit Sales**                                            |                          15,000 |        34,000 |        38,000 |          42,000 |
-| **Total Cash Inflows**                                                                        |                          61,990 |        91,420 |       100,370 |         110,310 |
+| **Loan from Financial Company**                                                               |                                 |        27,200 |               |                 |
+| **Total Cash Inflows**                                                                        |                          61,990 |       118,620 |       100,370 |         110,310 |
 |                                                                                               |                                 |               |               |                 |
 | **Payments**                                                                                  |                                 |               |               |                 |
 | Direct Cost of Sales (35%)                                                                    |                          29,750 |        33,250 |        36,750 |          40,250 |
 | Payments for Purchases (75% of previous month's purchases + 25% of current month's purchases) |          9,500 + 7,438 = 16,938 |        22,688 |        25,063 |          27,438 |
 | Equipment Purchase                                                                            | 15% discount on €5,000 = €4,250 |        32,000 |               |                 |
-| Loan Repayment                                                                                |                                 |        27,200 |           550 |             550 |
+| Loan Repayment                                                                                |                                 |           550 |           550 |             550 |
 | Wages                                                                                         |                          25,000 |        26,250 |        26,250 |          26,250 |
 | Rates                                                                                         |                           4,000 |         4,000 |         4,000 |           4,000 |
 | Rent                                                                                          |                          10,000 |        10,000 |        10,000 |          10,000 |
-| Total Payments                                                                                |                          99,938 |       133,388 |       102,613 |         108,488 |
+| Total Payments                                                                                |                          99,938 |       128,738 |       102,613 |         108,488 |
 |                                                                                               |                                 |               |               |                 |
-| **Net Cash Flow**                                                                             |                         -37,948 |       -41,968 |        -2,243 |           1,823 |
+| **Net Cash Flow**                                                                             |                         -37,948 |       -10,118 |        -2,243 |           1,823 |
 | **Closing Cash Balance**                                                                      |                          10,113 |        30,273 |        50,488 |          70,133 |
-
 **Calculations:**
 
 1. **Cash Sales:**
