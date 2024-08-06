@@ -47,9 +47,11 @@ The first step is to calculate the number of prints required to be in stock at t
 
 ![Formula View](images/2023-buss06073-business-decision-making-and-apps-solution/formula-view.png)
 
-![1722932959640](images/2023-buss06073-business-decision-making-and-apps-solution/1722932959640.png)
+![1722933692595](images/2023-buss06073-business-decision-making-and-apps-solution/1722933692595.png)
 
 #### Answer 1(a) (ii)
+
+**Note**: Closing stock of one month becomes the opening stock of the next month.
 
 1. **Calculate Required Ending Inventory:**
 
