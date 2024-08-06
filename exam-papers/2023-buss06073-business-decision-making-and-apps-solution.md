@@ -47,6 +47,8 @@ The first step is to calculate the number of prints required to be in stock at t
 
 ![Formula View](images/2023-buss06073-business-decision-making-and-apps-solution/formula-view.png)
 
+![1722932959640](images/2023-buss06073-business-decision-making-and-apps-solution/1722932959640.png)
+
 #### Answer 1(a) (ii)
 
 1. **Calculate Required Ending Inventory:**
@@ -258,7 +260,7 @@ Prepare a cash flow forecast for each month from May 2024 up to and including Au
 |                                                                                               |                                 |               |               |                 |
 | **Net Cash Flow**                                                                             |                         -37,948 |       -10,118 |        -2,243 |           1,823 |
 | **Closing Cash Balance**                                                                      |                          10,113 |        30,273 |        50,488 |          70,133 |
-**Calculations:**
+
 
 1. **Cash Sales:**
    - May: 60% of €85,000 = €51,000 with 1% discount = €50,490
