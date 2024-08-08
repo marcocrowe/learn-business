@@ -225,101 +225,67 @@ Prepare a cash flow forecast for each month from May 2024 up to and including Au
 
 #### Answer 2(a)
 
-**Cash Flow Forecast for Serenity Spa & Wellness Centre (May 2024 - August 2024)**
+### Revised Cash Flow Forecast
 
-**Assumptions and Calculations:**
+#### Cash Inflows
 
-1. **Sales Collection:**
-   - 60% of sales are collected in the month of sale (with 1% discount).
-   - 40% of sales are collected in the following month.
+1. **Cash Sales (60% of sales with 1% discount)**:
+   - May: $60\% \times 85,000 \times (1 - 0.01) = 50,490$
+   - June: $60\% \times 95,000 \times (1 - 0.01) = 56,430$
+   - July: $60\% \times 105,000 \times (1 - 0.01) = 62,370$
+   - August: $60\% \times 115,000 \times (1 - 0.01) = 68,310$
 
-2. **Purchases Payment:**
-   - 25% of purchases are paid in the month of purchase.
-   - 75% of purchases are paid in the following month.
+2. **Collections from Previous Month's Credit Sales**:
+   - May: $15,000$
+   - June: $40\% \times 85,000 = 34,000$
+   - July: $40\% \times 95,000 = 38,000$
+   - August: $40\% \times 105,000 = 42,000$
 
-3. **Direct Cost of Sales:**
-   - 35% of total sales.
+3. **Loan from Financial Company**:
+   - June: $32,000 \times 0.85 = 27,200$
 
-**Cash Flow Forecast:**
+#### Cash Outflows
 
-| **Month**                                                                                     |                    **May 2024** | **June 2024** | **July 2024** | **August 2024** |
-|-----------------------------------------------------------------------------------------------|--------------------------------:|--------------:|--------------:|----------------:|
-| **Opening Cash Balance**                                                                      |                          -3,500 |        10,113 |        30,273 |          50,488 |
-| **Cash Sales (60% of sales with 1% discount)**                                                |                          50,490 |        57,420 |        62,370 |          68,310 |
-| **Collections from Previous Month's Credit Sales**                                            |                          15,000 |        34,000 |        38,000 |          42,000 |
-| **Loan from Financial Company**                                                               |                                 |        27,200 |               |                 |
-| **Total Cash Inflows**                                                                        |                          61,990 |       118,620 |       100,370 |         110,310 |
-|                                                                                               |                                 |               |               |                 |
-| **Payments**                                                                                  |                                 |               |               |                 |
-| Direct Cost of Sales (35%)                                                                    |                          29,750 |        33,250 |        36,750 |          40,250 |
-| Payments for Purchases (75% of previous month's purchases + 25% of current month's purchases) |          9,500 + 7,438 = 16,938 |        22,688 |        25,063 |          27,438 |
-| Equipment Purchase                                                                            | 15% discount on €5,000 = €4,250 |        32,000 |               |                 |
-| Loan Repayment                                                                                |                                 |           550 |           550 |             550 |
-| Wages                                                                                         |                          25,000 |        26,250 |        26,250 |          26,250 |
-| Rates                                                                                         |                           4,000 |         4,000 |         4,000 |           4,000 |
-| Rent                                                                                          |                          10,000 |        10,000 |        10,000 |          10,000 |
-| Total Payments                                                                                |                          99,938 |       128,738 |       102,613 |         108,488 |
-|                                                                                               |                                 |               |               |                 |
-| **Net Cash Flow**                                                                             |                         -37,948 |       -10,118 |        -2,243 |           1,823 |
-| **Closing Cash Balance**                                                                      |                          10,113 |        30,273 |        50,488 |          70,133 |
+1. **Payments for Purchases**:
+   - May: $12,000 (previous month) + 0.25 \times 29,750 (current month) = 12,000 + 7,437.50 = 19,437.50$
+   - June: $0.75 \times 29,750 (previous month) + 0.25 \times 33,250 (current month) = 22,312.50 + 8,312.50 = 30,625$
+   - July: $0.75 \times 33,250 (previous month) + 0.25 \times 36,750 (current month) = 24,937.50 + 9,187.50 = 34,125$
+   - August: $0.75 \times 36,750 (previous month) + 0.25 \times 40,250 (current month) = 27,562.50 + 10,062.50 = 37,625$
 
+2. **Equipment Purchase**:
+   - May: $12,000 + (0.85 \times 5,000) = 12,425$
 
-1. **Cash Sales:**
-   - May: 60% of €85,000 = €51,000 with 1% discount = €50,490
-   - June: 60% of €95,000 = €57,000 with 1% discount = €56,430
-   - July: 60% of €105,000 = €63,000 with 1% discount = €62,370
-   - August: 60% of €115,000 = €69,000 with 1% discount = €68,310
-2. **Collections from Previous Month's Credit Sales:**
-   - May: €15,000
-   - June: 40% of €85,000 = €34,000
-   - July: 40% of €95,000 = €38,000
-   - August: 40% of €105,000 = €42,000
-3. **Direct Cost of Sales:**
-   - May: 35% of €85,000 = €29,750
-   - June: 35% of €95,000 = €33,250
-   - July: 35% of €105,000 = €36,750
-   - August: 35% of €115,000 = €40,250
-4. **Payments for Purchases:**
-   - Purchases are 35% of sales.
-   - May: 75% of April purchases (€12,000) + 25% of May purchases (€29,750) = €9,000 + €7,438 = €16,938
-   - June: 75% of May purchases (€29,750) + 25% of June purchases (€33,250) = €22,688
-   - July: 75% of June purchases (€33,250) + 25% of July purchases (€36,750) = €25,063
-   - August: 75% of July purchases (€36,750) + 25% of August purchases (€40,250) = €27,438
-5. **Loan and Loan Repayments:**
-   - Eve will take out a loan in June for 85% of €32,000 = €27,200
-   - Loan repayment of €550 per month starting from July.
-6. **Wages:**
-   - May: €25,000
-   - June: €25,000 + 5% = €26,250
-   - July: €26,250
-   - August: €26,250
-7. **Rates:**
-   - Monthly rate payment: €48,000 / 12 = €4,000
-8. **Rent:**
-   - Monthly rent payment: €10,000
-9. **Equipment Purchase:**
-   - May: €4,250 (after 15% discount on €5,000 purchase in December)
-10. **Opening Cash Balance:**
-    - May: -€3,500
+3. **Motor Purchase**:
+   - June: $32,000$
 
-**Closing Cash Balance Calculation:**
+4. **Loan Repayment**:
+   - July: $550$
+   - August: $550$
 
-- **May:**
-  - Opening Cash Balance: -€3,500
-  - Net Cash Flow: -€37,948
-  - Closing Cash Balance: €10,113
-- **June:**
-  - Opening Cash Balance: €10,113
-  - Net Cash Flow: -€41,968
-  - Closing Cash Balance: €30,273
-- **July:**
-  - Opening Cash Balance: €30,273
-  - Net Cash Flow: -€2,243
-  - Closing Cash Balance: €50,488
-- **August:**
-  - Opening Cash Balance: €50,488
-  - Net Cash Flow: €1,823
-  - Closing Cash Balance: €70,133
+5. **Wages** (with 5% increase from June onwards):
+   - May: $25,000$
+   - June: $25,000 \times 1.05 = 26,250$
+   - July: $26,250$
+   - August: $26,250$
+
+6. **Rates**:
+   - Monthly: $48,000 / 12 = 4,000$
+
+7. **Rent**:
+   - Monthly: $10,000$
+
+![1723111178671](images/2023-buss06073-business-decision-making-and-apps-solution/1723111178671.png)
+
+Answer
+
+![1723111609345](images/2023-buss06073-business-decision-making-and-apps-solution/1723111609345.png)
+
+![1723111205585](images/2023-buss06073-business-decision-making-and-apps-solution/1723111205585.png)
+Rough Work 1
+
+![1723111270316](images/2023-buss06073-business-decision-making-and-apps-solution/1723111270316.png)
+
+![1723111493899](images/2023-buss06073-business-decision-making-and-apps-solution/1723111493899.png)
 
 ### Question 2(b) [10 Marks]
 
