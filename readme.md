@@ -7,6 +7,7 @@
 |-----------------------------------|------|-----------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | Business Decision Making and Apps | 2023 | BUSS06073 | [Paper](exam-papers/2023-buss06073-business-decision-making-and-apps-paper.md) | [Solution](exam-papers/2023-buss06073-business-decision-making-and-apps-solution.md) |
 | Financial Accounting 1            | 2023 | ACCT06060 | [Paper](exam-papers/2023-acct06060-financial-accounting-1-paper.md)            | [Solution](exam-papers/2023-acct06060-financial-accounting-1-solution.md)            |
+| Financial Management              | 2023 | FINC08022 | [Paper](exam-papers/2023-finc08022-financial-management-paper.md)              | [Solution](exam-papers/2023-finc08022-financial-management-solution.md)              |
 
 ---
 Copyright &copy; 2024 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
