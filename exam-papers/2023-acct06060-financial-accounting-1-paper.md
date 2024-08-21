@@ -11,7 +11,7 @@ The use of programmable or text storing calculators is expressly forbidden.
 
 Please note that where a candidate answers more than the required number of questions, the examiner will mark all questions attempted and then select the highest scoring ones.
 
-Requirements for this paper:
+**Requirements for this paper:**  
 
 1. Calculators
 
