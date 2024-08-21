@@ -113,7 +113,165 @@ Compare and comment on the savings of this year’s accounts payables policy of 
 
 Write a brief report to the directors of ML outlining your opinion of the general performance of the financial management team during the current year 31/10/23.
 
+## Answer 1
+
+### Q1(a) - Operating Cash Cycle (OCC) Comparison and Analysis
+
+The Operating Cash Cycle (OCC) is a key metric used to assess the efficiency of a company's management of its working capital. It represents the time taken between the purchase of inventory and the collection of cash from sales. The OCC can be calculated using the following formula:
+
+$$
+\text{OCC} = \text{Inventory Days} + \text{Receivables Days} - \text{Payables Days}
+$$
+
+1. **Inventory Days**: This measures the average number of days inventory is held before being sold.
+   
+   $$
+   \text{Inventory Days} = \frac{\text{Average Inventory}}{\text{Cost of Sales}} \times 365
+   $$
+   
+   For 2023:
+   $$
+   \text{Average Inventory} = \frac{350,000 + 160,000}{2} = 255,000 \, \text{€}
+   $$
+   $$
+   \text{Inventory Days (2023)} = \frac{255,000}{1,980,000} \times 365 = 46.97 \, \text{days}
+   $$
+   
+   For 2022:
+   $$
+   \text{Average Inventory} = \frac{160,000 + 201,000}{2} = 180,500 \, \text{€}
+   $$
+   $$
+   \text{Inventory Days (2022)} = \frac{180,500}{1,510,000} \times 365 = 43.61 \, \text{days}
+   $$
+
+2. **Receivables Days**: This measures the average number of days taken to collect receivables.
+   
+   $$
+   \text{Receivables Days} = \frac{\text{Accounts Receivables}}{\text{Sales Revenue}} \times 365
+   $$
+   
+   For 2023:
+   $$
+   \text{Receivables Days (2023)} = \frac{950,000}{7,550,000} \times 365 = 45.94 \, \text{days}
+   $$
+   
+   For 2022:
+   $$
+   \text{Receivables Days (2022)} = \frac{310,000}{6,400,000} \times 365 = 17.68 \, \text{days}
+   $$
+
+3. **Payables Days**: This measures the average number of days taken to pay suppliers.
+   
+   $$
+   \text{Payables Days} = \frac{\text{Accounts Payables}}{\text{Cost of Sales}} \times 365
+   $$
+   
+   For 2023:
+   $$
+   \text{Payables Days (2023)} = \frac{40,000}{1,980,000} \times 365 = 7.37 \, \text{days}
+   $$
+   
+   For 2022:
+   $$
+   \text{Payables Days (2022)} = \frac{60,000}{1,510,000} \times 365 = 14.49 \, \text{days}
+   $$
+
+4. **Operating Cash Cycle (OCC)**:
+
+   For 2023:
+   $$
+   \text{OCC (2023)} = 46.97 + 45.94 - 7.37 = 85.54 \, \text{days}
+   $$
+
+   For 2022:
+   $$
+   \text{OCC (2022)} = 43.61 + 17.68 - 14.49 = 46.80 \, \text{days}
+   $$
+
+**Analysis**:
+- The OCC has significantly increased from 46.80 days in 2022 to 85.54 days in 2023. 
+- The increase in OCC indicates that Manhattan Limited is taking longer to convert its inventory into cash. 
+- The longer OCC can imply that more working capital is tied up in the operating cycle, which could affect the company’s liquidity and operational efficiency.
+
+### Q1(b) - Accounts Receivables Policy Costs Comparison
+
+The cost of maintaining accounts receivables can be estimated by considering the opportunity cost of the funds tied up in receivables. Given the current overdraft interest rate of 7%, the cost of the receivables can be calculated as:
+
+$$
+\text{Cost of Receivables} = \text{Accounts Receivables} \times \text{Interest Rate}
+$$
+
+For 2023:
+$$
+\text{Cost of Receivables (2023)} = 950,000 \times 0.07 = 66,500 \, \text{€}
+$$
+
+For 2022:
+$$
+\text{Cost of Receivables (2022)} = 310,000 \times 0.07 = 21,700 \, \text{€}
+$$
+
+**Analysis**:
+- The cost of carrying receivables has increased from €21,700 in 2022 to €66,500 in 2023.
+- This increase suggests that Manhattan Limited's credit policy may have become more lenient, allowing customers more time to pay, which ties up more capital and increases costs.
+
+### Q1(c) - Accounts Payables Policy Savings Comparison
+
+Savings from the payables policy can be calculated similarly by considering the benefit of delaying payments. The savings can be represented as:
+
+$$
+\text{Savings on Payables} = \text{Accounts Payables} \times \text{Interest Rate}
+$$
+
+For 2023:
+$$
+\text{Savings on Payables (2023)} = 40,000 \times 0.07 = 2,800 \, \text{€}
+$$
+
+For 2022:
+$$
+\text{Savings on Payables (2022)} = 60,000 \times 0.07 = 4,200 \, \text{€}
+$$
+
+**Analysis**:
+- The savings from the payables policy have decreased from €4,200 in 2022 to €2,800 in 2023.
+- This reduction indicates that Manhattan Limited is paying its suppliers more quickly than in the previous year, which reduces the benefit of delaying payments and may have an impact on cash flow.
+
+### Q1(d) - Report to Directors on Financial Management Performance
+
+**To: The Board of Directors, Manhattan Limited**  
+**From: Financial Analyst**  
+**Date: [Insert Date]**  
+**Subject: Evaluation of Financial Management Performance for the Year Ended 31/10/2023**
+
+**Overview**:
+The financial management team at Manhattan Limited has navigated through a year of significant changes. Upon analyzing the company's performance, particularly focusing on the working capital management, several key observations can be made.
+
+**Operating Cash Cycle (OCC)**:
+The OCC has extended considerably, from 46.80 days in 2022 to 85.54 days in 2023. This increase suggests that the company is holding onto inventory longer and collecting receivables more slowly. While longer payment terms might foster customer relations, it ties up more capital and reduces liquidity.
+
+**Accounts Receivables**:
+The cost associated with maintaining accounts receivables has tripled, indicating a more lenient credit policy. While this might have been strategically aimed at boosting sales, it has also increased the financial burden on the company due to higher interest costs on the capital tied up in receivables.
+
+**Accounts Payables**:
+The payables policy has seen a shift towards quicker payments to suppliers. Although this might strengthen supplier relations and possibly secure better terms in the long run, it has reduced the financial benefit that comes from delaying payments.
+
+**Conclusion**:
+The financial management team has demonstrated a cautious approach towards supplier payments but has allowed working capital to be heavily tied up in inventory and receivables. This strategy, while potentially beneficial for long-term growth and customer satisfaction, has put pressure on the company’s liquidity. It may be advisable to revisit the company’s credit policies and inventory management strategies to strike a better balance between growth and operational efficiency.
+
+**Recommendation**:
+- **Review Inventory Management**: Implement more efficient inventory control systems to reduce the holding period.
+- **Tighten Credit Policies**: Consider revising credit terms to reduce the receivables period and minimize the associated costs.
+- **Optimize Payables Management**: Maintain a balance between supplier relations and the financial benefits of delayed payments.
+
+**Signature**:  
+[Your Name]  
+Financial Analyst
+
 ---
+
+This report should provide a comprehensive overview for the directors and guide them in making informed decisions regarding financial management strategies moving forward.
 
 ## Question 2
 
