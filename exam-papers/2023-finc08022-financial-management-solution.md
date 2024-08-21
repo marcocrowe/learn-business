@@ -1,7 +1,6 @@
 
 # FINC08022 – Financial Management
 
-
 ## Technological University of the Shannon: Midlands Midwest
 
 **Winter Examinations 2023/2024**  
