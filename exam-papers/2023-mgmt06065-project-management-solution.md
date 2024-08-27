@@ -121,7 +121,7 @@ If say Path 5 is delayed by 2 units of time, the path duration of path 5 will be
 
 ## Alternate Question 1
 
-Given the following project activities and their dependencies, draw a Precedence Diagramming Method (PDM) network diagram. Place the activity nodes in boxes and draw arrows from node to node, indicating the dependencies between the activities. Label each node with the activity letter and its estimated duration.
+Given the following project activities and their dependencies, draw a Precedence Diagramming Method (PDM) network diagram. Place the activity nodes in boxes and draw arrows from node to node, indicating the dependencies between the activities. Represent each activity the given fields and indicate dependencies between activities them.
 
 | ID | Activity | Preceding Activity | Start     | Finish     | Duration | Resources |
 |----|----------|--------------------|-----------|------------|----------|-----------|
@@ -150,18 +150,18 @@ Given the following project activities and their dependencies, draw a Precedence
 
 ```mermaid
 graph LR
-    A["<b>A</b><br/>ID: 1<br/>Start: 8/8/2024<br/>Finish: 8/18/2024<br/>Duration: 10<br/>Res: ResA"]
-    B["<b>B</b><br/>ID: 2<br/>Start: 8/8/2024<br/>Finish: 8/20/2024<br/>Duration: 12<br/>Res: ResB"]
-    C["<b>C</b><br/>ID: 3<br/>Start: 8/19/2024<br/>Finish: 8/27/2024<br/>Duration: 8<br/>Res: ResC"]
-    D["<b>D</b><br/>ID: 4<br/>Start: 8/19/2024<br/>Finish: 8/23/2024<br/>Duration: 4<br/>Res: ResD"]
-    E["<b>E</b><br/>ID: 5<br/>Start: 8/24/2024<br/>Finish: 8/30/2024<br/>Duration: 6<br/>Res: ResE"]
-    F["<b>F</b><br/>ID: 6<br/>Start: 8/21/2024<br/>Finish: 8/27/2024<br/>Duration: 6<br/>Res: ResF"]
-    G["<b>G</b><br/>ID: 7<br/>Start: 8/31/2024<br/>Finish: 9/10/2024<br/>Duration: 10<br/>Res: ResG"]
-    H["<b>H</b><br/>ID: 8<br/>Start: 8/31/2024<br/>Finish: 9/12/2024<br/>Duration: 12<br/>Res: ResH"]
-    I["<b>I</b><br/>ID: 9<br/>Start: 9/13/2024<br/>Finish: 9/21/2024<br/>Duration: 8<br/>Res: ResI"]
-    J["<b>J</b><br/>ID: 10<br/>Start: 8/28/2024<br/>Finish: 9/5/2024<br/>Duration: 8<br/>Res: ResJ"]
-    K["<b>K</b><br/>ID: 11<br/>Start: 9/22/2024<br/>Finish: 9/30/2024<br/>Duration: 8<br/>Res: ResK"]
-    L["<b>L</b><br/>ID: 12<br/>Start: 10/1/2024<br/>Finish: 10/11/2024<br/>Duration: 10<br/>Res: ResL"]
+    A["<b>A</b><br/>Start: 08/08/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 1 <br/>Finish: 08/18/2024&nbsp;&nbsp;&nbsp;Duration: 10<br/>Res: ResA"]
+    B["<b>B</b><br/>Start: 08/08/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 2 <br/>Finish: 08/20/2024&nbsp;&nbsp;&nbsp;Duration: 12<br/>Res: ResB"]
+    C["<b>C</b><br/>Start: 08/19/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 3 <br/>Finish: 08/27/2024&nbsp;&nbsp;&nbsp;Duration: 8<br/> Res: ResC"]
+    D["<b>D</b><br/>Start: 08/19/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 4 <br/>Finish: 08/23/2024&nbsp;&nbsp;&nbsp;Duration: 4<br/> Res: ResD"]
+    E["<b>E</b><br/>Start: 08/24/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 5 <br/>Finish: 08/30/2024&nbsp;&nbsp;&nbsp;Duration: 6<br/> Res: ResE"]
+    F["<b>F</b><br/>Start: 08/21/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 6 <br/>Finish: 08/27/2024&nbsp;&nbsp;&nbsp;Duration: 6<br/> Res: ResF"]
+    G["<b>G</b><br/>Start: 08/31/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 7 <br/>Finish: 09/10/2024&nbsp;&nbsp;&nbsp;Duration: 10<br/>Res: ResG"]
+    H["<b>H</b><br/>Start: 08/31/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 8 <br/>Finish: 09/12/2024&nbsp;&nbsp;&nbsp;Duration: 12<br/>Res: ResH"]
+    I["<b>I</b><br/>Start: 09/13/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 9 <br/>Finish: 09/21/2024&nbsp;&nbsp;&nbsp;Duration: 8<br/> Res: ResI"]
+    J["<b>J</b><br/>Start: 08/28/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 10<br/>Finish: 09/05/2024&nbsp;&nbsp;&nbsp;Duration: 8<br/> Res: ResJ"]
+    K["<b>K</b><br/>Start: 09/22/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 11<br/>Finish: 09/30/2024&nbsp;&nbsp;&nbsp;Duration: 8<br/ >Res: ResK"]
+    L["<b>L</b><br/>Start: 10/01/2024&nbsp;&nbsp;&nbsp;&nbsp;ID: 12<br/>Finish: 10/11/2024&nbsp;&nbsp;&nbsp;Duration: 10<br/>Res: ResL"]
 
     A --> C 
     A --> D 
@@ -178,9 +178,22 @@ graph LR
     I --> K 
     J --> L 
     K --> L 
+
+    style A text-align:left;
+    style B text-align:left;
+    style C text-align:left;
+    style D text-align:left;
+    style E text-align:left;
+    style F text-align:left;
+    style G text-align:left;
+    style H text-align:left;
+    style I text-align:left;
+    style J text-align:left;
+    style K text-align:left;
+    style L text-align:left;
 ```
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### Alternate Question 1.B (11 marks)
 
@@ -190,7 +203,7 @@ graph LR
 
 **Identifying the Critical Path:**
 
-To identify the critical path, we need to calculate the total duration of each path in the project and identify the path(s) with the longest duration, as the critical path is the one that determines the minimum time needed to complete the project. 
+To identify the critical path, we need to calculate the total duration of each path in the project and identify the path(s) with the longest duration, as the critical path is the one that determines the minimum time needed to complete the project.
 
 Based on the network diagram and the dependencies, here are the possible paths:
 
