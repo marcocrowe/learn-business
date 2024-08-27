@@ -188,11 +188,53 @@ graph LR
 
 ### Alternate Answer 1.B
 
+**Identifying the Critical Path:**
+
+To identify the critical path, we need to calculate the total duration of each path in the project and identify the path(s) with the longest duration, as the critical path is the one that determines the minimum time needed to complete the project. 
+
+Based on the network diagram and the dependencies, here are the possible paths:
+
+1. **Path 1:** A -> C -> G -> K -> L
+   - Duration = 10 (A) + 8 (C) + 10 (G) + 8 (K) + 10 (L) = **46 days**
+
+2. **Path 2:** A -> D -> E -> G -> K -> L
+   - Duration = 10 (A) + 4 (D) + 6 (E) + 10 (G) + 8 (K) + 10 (L) = **48 days**
+
+3. **Path 3:** B -> E -> G -> K -> L
+   - Duration = 12 (B) + 6 (E) + 10 (G) + 8 (K) + 10 (L) = **46 days**
+
+4. **Path 4:** B -> F -> I -> K -> L
+   - Duration = 12 (B) + 6 (F) + 8 (I) + 8 (K) + 10 (L) = **44 days**
+
+5. **Path 5:** B -> F -> J -> L
+   - Duration = 12 (B) + 6 (F) + 8 (J) + 10 (L) = **36 days**
+
+6. **Path 6:** A -> D -> E -> H -> I -> K -> L
+   - Duration = 10 (A) + 4 (D) + 6 (E) + 12 (H) + 8 (I) + 8 (K) + 10 (L) = **58 days**
+
+**Critical Path:** The critical path is **Path 6: A -> D -> E -> H -> I -> K -> L** with a total duration of **58 days**.
+
 ### Alternate Question 1.C (10 marks)
 
 **Explain the Importance of the Critical Path**: Provide a brief explanation of why the critical path is significant in project management.
 
 ### Alternate Answer 1.C
+
+**Importance of the Critical Path:**
+
+The critical path is a crucial concept in project management for several reasons:
+
+1. **Project Completion Time**: The critical path determines the shortest possible time to complete the project. Knowing the critical path allows project managers to focus on the activities that cannot be delayed without affecting the overall project timeline.
+
+2. **Resource Allocation**: By identifying the critical path, project managers can allocate resources more effectively. Activities on the critical path must be prioritized in terms of resource allocation, as any delay in these tasks directly impacts the project’s completion date.
+
+3. **Risk Management**: Understanding the critical path helps in identifying potential risks. Since any delay on the critical path will delay the project, project managers can monitor these activities closely and develop contingency plans to mitigate risks.
+
+4. **Project Control**: The critical path provides a clear framework for monitoring and controlling the project. Project managers can use the critical path to track progress, ensuring that the project stays on schedule.
+
+5. **Decision Making**: In case of unforeseen circumstances or changes in project scope, understanding the critical path allows project managers to make informed decisions regarding schedule adjustments, resource reallocation, or prioritization of tasks.
+
+In summary, the critical path is essential for ensuring that the project is completed on time, within scope, and with optimal resource usage. It serves as the backbone of effective project planning and execution.
 
 
 ## Question 2 (33 marks)
