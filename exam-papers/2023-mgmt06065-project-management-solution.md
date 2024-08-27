@@ -123,20 +123,22 @@ If say Path 5 is delayed by 2 units of time, the path duration of path 5 will be
 
 Given the following project activities and their dependencies, draw a Precedence Diagramming Method (PDM) network diagram. Place the activity nodes in boxes and draw arrows from node to node, indicating the dependencies between the activities. Label each node with the activity letter and its estimated duration.
 
-| Activity | Preceding Activity | Estimated Duration |
-|----------|--------------------|--------------------|
-| A        | -                  | 10                 |
-| B        | -                  | 12                 |
-| C        | A                  | 8                  |
-| D        | A                  | 4                  |
-| E        | B, D               | 6                  |
-| F        | B                  | 6                  |
-| G        | C, E               | 10                 |
-| H        | E                  | 12                 |
-| I        | F, H               | 8                  |
-| J        | F                  | 8                  |
-| K        | G, I               | 8                  |
-| L        | J, K               | 10                 |
+| ID | Activity | Preceding Activity | Start     | Finish     | Duration | Resources |
+|----|----------|--------------------|-----------|------------|----------|-----------|
+| 1  | A        | -                  | 8/8/2024  | 8/18/2024  | 10       | ResA      |
+| 2  | B        | -                  | 8/8/2024  | 8/20/2024  | 12       | ResB      |
+| 3  | C        | A                  | 8/19/2024 | 8/27/2024  | 8        | ResC      |
+| 4  | D        | A                  | 8/19/2024 | 8/23/2024  | 4        | ResD      |
+| 5  | E        | B, D               | 8/24/2024 | 8/30/2024  | 6        | ResE      |
+| 6  | F        | B                  | 8/21/2024 | 8/27/2024  | 6        | ResF      |
+| 7  | G        | C, E               | 8/31/2024 | 9/10/2024  | 10       | ResG      |
+| 8  | H        | E                  | 8/31/2024 | 9/12/2024  | 12       | ResH      |
+| 9  | I        | F, H               | 9/13/2024 | 9/21/2024  | 8        | ResI      |
+| 10 | J        | F                  | 8/28/2024 | 9/5/2024   | 8        | ResJ      |
+| 11 | K        | G, I               | 9/22/2024 | 9/30/2024  | 8        | ResK      |
+| 12 | L        | J, K               | 10/1/2024 | 10/11/2024 | 10       | ResL      |
+
+*Table 2.*
 
 *Table 2.*
 
@@ -147,125 +149,19 @@ Given the following project activities and their dependencies, draw a Precedence
 ### Alternate Answer 1.A
 
 ```mermaid
-classDiagram
-    class A {
-        ID: 1
-        Start: 8/8/2024
-        Finish: 8/18/2024
-        Duration: 10
-        Res: ResA
-    }
-    class B {
-        ID: 2
-        Start: 8/8/2024
-        Finish: 8/20/2024
-        Duration: 12
-        Res: ResB
-    }
-    class C {
-        ID: 3
-        Start: 8/19/2024
-        Finish: 8/27/2024
-        Duration: 8
-        Res: ResC
-    }
-    class D {
-        ID: 4
-        Start: 8/19/2024
-        Finish: 8/23/2024
-        Duration: 4
-        Res: ResD
-    }
-    class E {
-        ID: 5
-        Start: 8/24/2024
-        Finish: 8/30/2024
-        Duration: 6
-        Res: ResE
-    }
-    class F {
-        ID: 6
-        Start: 8/21/2024
-        Finish: 8/27/2024
-        Duration: 6
-        Res: ResF
-    }
-    class G {
-        ID: 7
-        Start: 8/31/2024
-        Finish: 9/10/2024
-        Duration: 10
-        Res: ResG
-    }
-    class H {
-        ID: 8
-        Start: 8/31/2024
-        Finish: 9/12/2024
-        Duration: 12
-        Res: ResH
-    }
-    class I {
-        ID: 9
-        Start: 9/13/2024
-        Finish: 9/21/2024
-        Duration: 8
-        Res: ResI
-    }
-    class J {
-        ID: 10
-        Start: 8/28/2024
-        Finish: 9/5/2024
-        Duration: 8
-        Res: ResJ
-    }
-    class K {
-        ID: 11
-        Start: 9/22/2024
-        Finish: 9/30/2024
-        Duration: 8
-        Res: ResK
-    }
-    class L {
-        ID: 12
-        Start: 10/1/2024
-        Finish: 10/11/2024
-        Duration: 10
-        Res: ResL
-    }
-
-    A --> C 
-    A --> D 
-    B --> E 
-    D --> E 
-    B --> F 
-    C --> G 
-    E --> G 
-    E --> H 
-    F --> I 
-    H --> I 
-    F --> J 
-    G --> K 
-    I --> K 
-    J --> L 
-    K --> L 
-```
-
----
-
-```mermaid
 graph LR
-    A["ID: 1<br/>Start: 8/8/2024<br/>Finish: 8/18/2024<br/>Duration: 10<br/>Res: ResA"]
-    B["ID: 2<br/>Start: 8/8/2024<br/>Finish: 8/20/2024<br/>Duration: 12<br/>Res: ResB"]
-    C["ID: 3<br/>Start: 8/19/2024<br/>Finish: 8/27/2024<br/>Duration: 8<br/>Res: ResC"]
-    D["ID: 4<br/>Start: 8/19/2024<br/>Finish: 8/23/2024<br/>Duration: 4<br/>Res: ResD"]
-    E["ID: 5<br/>Start: 8/24/2024<br/>Finish: 8/30/2024<br/>Duration: 6<br/>Res: ResE"]
-    F["ID: 6<br/>Start: 8/21/2024<br/>Finish: 8/27/2024<br/>Duration: 6<br/>Res: ResF"]
-    G["ID: 7<br/>Start: 8/31/2024<br/>Finish: 9/10/2024<br/>Duration: 10<br/>Res: ResG"]
-    H["ID: 8<br/>Start: 8/31/2024<br/>Finish: 9/12/2024<br/>Duration: 12<br/>Res: ResH"]
-    I["ID: 9<br/>Start: 9/13/2024<br/>Finish: 9/21/2024<br/>Duration: 8<br/>Res: ResI"]
-    J["ID: 10<br/>Start: 8/28/2024<br/>Finish: 9/5/2024<br/>Duration: 8<br/>Res: ResJ"]
-    K["ID: 11<br/>Start: 9/22/2024<br/>Finish: 9/30/2024<br/>Duration: 8<br/>Res: ResK"]
-    L["ID: 12<br/>Start: 10/1/2024<br/>Finish: 10/11/2024<br/>Duration: 10<br/>Res: ResL"]
+    A["<b>A</b><br/>ID: 1<br/>Start: 8/8/2024<br/>Finish: 8/18/2024<br/>Duration: 10<br/>Res: ResA"]
+    B["<b>B</b><br/>ID: 2<br/>Start: 8/8/2024<br/>Finish: 8/20/2024<br/>Duration: 12<br/>Res: ResB"]
+    C["<b>C</b><br/>ID: 3<br/>Start: 8/19/2024<br/>Finish: 8/27/2024<br/>Duration: 8<br/>Res: ResC"]
+    D["<b>D</b><br/>ID: 4<br/>Start: 8/19/2024<br/>Finish: 8/23/2024<br/>Duration: 4<br/>Res: ResD"]
+    E["<b>E</b><br/>ID: 5<br/>Start: 8/24/2024<br/>Finish: 8/30/2024<br/>Duration: 6<br/>Res: ResE"]
+    F["<b>F</b><br/>ID: 6<br/>Start: 8/21/2024<br/>Finish: 8/27/2024<br/>Duration: 6<br/>Res: ResF"]
+    G["<b>G</b><br/>ID: 7<br/>Start: 8/31/2024<br/>Finish: 9/10/2024<br/>Duration: 10<br/>Res: ResG"]
+    H["<b>H</b><br/>ID: 8<br/>Start: 8/31/2024<br/>Finish: 9/12/2024<br/>Duration: 12<br/>Res: ResH"]
+    I["<b>I</b><br/>ID: 9<br/>Start: 9/13/2024<br/>Finish: 9/21/2024<br/>Duration: 8<br/>Res: ResI"]
+    J["<b>J</b><br/>ID: 10<br/>Start: 8/28/2024<br/>Finish: 9/5/2024<br/>Duration: 8<br/>Res: ResJ"]
+    K["<b>K</b><br/>ID: 11<br/>Start: 9/22/2024<br/>Finish: 9/30/2024<br/>Duration: 8<br/>Res: ResK"]
+    L["<b>L</b><br/>ID: 12<br/>Start: 10/1/2024<br/>Finish: 10/11/2024<br/>Duration: 10<br/>Res: ResL"]
 
     A --> C 
     A --> D 
@@ -283,7 +179,6 @@ graph LR
     J --> L 
     K --> L 
 ```
-
 
 ### Alternate Question 1.B (11 marks)
 
