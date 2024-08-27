@@ -180,6 +180,8 @@ graph LR
     K --> L 
 ```
 
+![alt text](image.png)
+
 ### Alternate Question 1.B (11 marks)
 
 **Identify the Critical Path**: After drawing the network diagram, identify and list the critical path(s) for the project, showing the total duration of the critical path.
