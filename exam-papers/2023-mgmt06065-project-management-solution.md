@@ -281,6 +281,7 @@ The "triple constraint" in project management refers to the interdependent relat
 
 Each of these constraints is interrelated; a change in one constraint will likely impact the others. For example, expanding the project scope may require additional time and budget, while reducing the time allocated may necessitate a reduction in scope or an increase in costs. Therefore, balancing these three constraints is vital for project success, as it ensures that the project is delivered on time, within budget, and meets the intended objectives.
 
+If the budget for the project is reduced without adjusting the scope or timeline, it may lead to cost overruns or delays in project completion. Similarly, if the scope is expanded without additional resources or time, it can result in project failure. Therefore, project managers must carefully manage the triple constraint to achieve project success.
 
 ---
 
@@ -304,9 +305,11 @@ A conciliatory approach to addressing conflicts within a project can be effectiv
 
 ### Question 3.C **(10 marks)**
 
-To run effective meetings and prevent them from negatively impacting productivity, consider the following four tips:
+You are concerned that a preponderance of meetings are having a negative effect on the productivity of your project. Provide any FOUR tips on running effective meetings.  
 
 ### Answer 3.C
+
+To run effective meetings and prevent them from negatively impacting productivity, consider the following four tips:
 
 1. **Set Clear Objectives:** Ensure that each meeting has a specific purpose and clear objectives. This helps keep the meeting focused and ensures that only relevant topics are discussed.
 
@@ -318,8 +321,6 @@ To run effective meetings and prevent them from negatively impacting productivit
 
 Implementing these tips can help reduce the frequency and duration of meetings, thereby improving overall project productivity.
 
-c) You are concerned that a preponderance of meetings are having a negative effect on the productivity of your project. Provide any FOUR tips on running effective meetings.  
-**(10 marks)**
 
 **[End of Question 3]**
 
